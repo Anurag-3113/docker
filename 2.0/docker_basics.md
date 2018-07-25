@@ -133,9 +133,3 @@
 
 
 ***
-### Docker Playground
-
-***[Play With Docker](https://labs.play-with-docker.com/)***
-***[Self Paced Training](https://training.play-with-docker.com/alacart/)***
-
-***
