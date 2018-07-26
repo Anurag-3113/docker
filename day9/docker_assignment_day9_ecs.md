@@ -16,13 +16,13 @@ Assignment
 		- Database : CPU=0.50 Mem=512M
 	- Setup environment variables for database service
 		- MYSQL_ROOT_PASSWORD: wordpress
-       		- MYSQL_DATABASE: wordpress
-	       	- MYSQL_USER: wordpress
-	        - MYSQL_PASSWORD: wordpress
+		- MYSQL_DATABASE: wordpress
+		- MYSQL_USER: wordpress
+		- MYSQL_PASSWORD: wordpress
 	- Setup environment variables for wordpress service
 		- WORDPRESS_DB_HOST: db:3306
-       		- WORDPRESS_DB_USER: wordpress
-	       	- WORDPRESS_DB_PASSWORD: wordpress
+		- WORDPRESS_DB_USER: wordpress
+		- WORDPRESS_DB_PASSWORD: wordpress
 
 * Deploy wordpress service on AWS ECS
 	- Deploy a wordpress service (service_name: wordpress)
