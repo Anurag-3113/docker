@@ -37,5 +37,6 @@ Assignment
 Reference
 -----------------
 [Task Def](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ecs-taskdefinition.html)
+
 [Services](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs_services.html)
 
